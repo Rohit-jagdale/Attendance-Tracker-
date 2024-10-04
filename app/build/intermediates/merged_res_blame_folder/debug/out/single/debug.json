@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_add_student_attendance.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/add_student_attendance.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_test_main.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/test_main.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable_bk1.jpeg.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable/bk1.jpeg"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/menu_main.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_view_student_list.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/view_student_list.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout___listview_main.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/__listview_main.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-hdpi_roundedtextview.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-hdpi/roundedtextview.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable_bk.jpeg.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable/bk.jpeg"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_menu.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_addfaculty.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/addfaculty.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable_st.jpeg.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable/st.jpeg"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_addstudent.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/addstudent.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-hdpi_calendar_icon.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-hdpi/calendar_icon.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_viewstudent.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/viewstudent.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_listview_main.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/listview_main.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_login.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_view_attendance_list_per_student.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-hdpi_roundedbutton.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-hdpi/roundedbutton.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_test_layout.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/test_layout.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_student_dashboard_activity.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/student_dashboard_activity.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_view_attendance_list.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/view_attendance_list.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable-hdpi_clg.jpg.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable-hdpi/clg.jpg"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_view_faculty_list.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/view_faculty_list.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_add_attandance.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/add_attandance.xml"
+    },
+    {
+        "merged": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/res/layout/activity_main.xml"
+    }
+]

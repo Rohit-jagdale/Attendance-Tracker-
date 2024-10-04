@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rohit/.gradle/caches/transforms-3/505797e4814d21f2dc18b818b7309840/transformed/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rohit/.gradle/caches/transforms-3/9584b4d598315b794af35173214e76a9/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rohit/.gradle/caches/transforms-3/6678df106093e5a55cfcce9272a521a2/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ee99e7d37c413160f507da6a9c2d38f0/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/rohit/.gradle/caches/transforms-3/09688dc651451ce5bffaa3c1c9ae95a8/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/fd210300523ee75d410c983bfd43664d/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/88d120cee404d93e2c55303ac1fbf37b/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/441357cb85add36d99429b9cf1bf4dd8/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/rohit/.gradle/caches/transforms-3/5ae4dd0f5eec1ebf3bcd237b83172834/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/0a168096bc0846d689d2a1bab2bc274e/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d0aa44ab2172920287a481880db9891c/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d6e2fabc0cd6e5013b2348e028d475fb/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/894f8e31cff200a0f9119da9ff33e815/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rohit/.gradle/caches/transforms-3/580c8cba696c03bab3922ef6e6023843/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ad9475fa2fb52485618e2cf36652c067/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/rohit/.gradle/caches/transforms-3/03a9870c7cb55336aa671f531b5bdd7f/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rohit/.gradle/caches/transforms-3/bffe487eb5748f9fafbdea93116f76cd/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rohit/.gradle/caches/transforms-3/2ad741cfcf52d97a50fb2c98f3ea6e2e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rohit/.gradle/caches/transforms-3/e17334d6ee2a96bc6e34504380789756/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rohit/.gradle/caches/transforms-3/77ad3c9b9262e6641eec7686d9236799/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rohit/.gradle/caches/transforms-3/f3f6f40178a0a499e88eae1fe5c74bd1/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/3d5f5d66ab57faf98456681559d7ae76/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:1-79:12
+	package
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:10:1-76
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:10:18-74
+application
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:11:5-77:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d6e2fabc0cd6e5013b2348e028d475fb/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d6e2fabc0cd6e5013b2348e028d475fb/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:12:9-52
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:15:9-45
+	android:allowBackup
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:13:10-74
+activity#com.android.attendance.activity.MainActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:18:9-27:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:21:13-45
+	android:exported
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:19:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:28:10-31:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:29:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:32:10-35:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:33:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:36:10-39:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:37:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:41:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:46:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:45:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:50:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:49:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:53:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:56:10-59:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:57:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:60:11-63:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:61:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:64:10-67:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:66:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:65:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:68:10-71:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:70:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:69:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:72:10-75:20
+	android:label
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:74:13-45
+	android:name
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml:73:13-92
+uses-sdk
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rohit/.gradle/caches/transforms-3/505797e4814d21f2dc18b818b7309840/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/rohit/.gradle/caches/transforms-3/505797e4814d21f2dc18b818b7309840/transformed/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ecfe40b5b64b269434758ba80a7d9da3/transformed/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rohit/.gradle/caches/transforms-3/9584b4d598315b794af35173214e76a9/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/rohit/.gradle/caches/transforms-3/9584b4d598315b794af35173214e76a9/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rohit/.gradle/caches/transforms-3/6678df106093e5a55cfcce9272a521a2/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/rohit/.gradle/caches/transforms-3/6678df106093e5a55cfcce9272a521a2/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ee99e7d37c413160f507da6a9c2d38f0/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ee99e7d37c413160f507da6a9c2d38f0/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rohit/.gradle/caches/transforms-3/09688dc651451ce5bffaa3c1c9ae95a8/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/rohit/.gradle/caches/transforms-3/09688dc651451ce5bffaa3c1c9ae95a8/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/fd210300523ee75d410c983bfd43664d/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/fd210300523ee75d410c983bfd43664d/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/8f2c9aba696705a6e7daac88cb9c697c/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/88d120cee404d93e2c55303ac1fbf37b/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/88d120cee404d93e2c55303ac1fbf37b/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/441357cb85add36d99429b9cf1bf4dd8/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/441357cb85add36d99429b9cf1bf4dd8/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rohit/.gradle/caches/transforms-3/5ae4dd0f5eec1ebf3bcd237b83172834/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/rohit/.gradle/caches/transforms-3/5ae4dd0f5eec1ebf3bcd237b83172834/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/0a168096bc0846d689d2a1bab2bc274e/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/rohit/.gradle/caches/transforms-3/0a168096bc0846d689d2a1bab2bc274e/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d0aa44ab2172920287a481880db9891c/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d0aa44ab2172920287a481880db9891c/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/rohit/.gradle/caches/transforms-3/01abf3def00b528e5c29d1fd1eb1ef25/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d6e2fabc0cd6e5013b2348e028d475fb/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/rohit/.gradle/caches/transforms-3/d6e2fabc0cd6e5013b2348e028d475fb/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/894f8e31cff200a0f9119da9ff33e815/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/894f8e31cff200a0f9119da9ff33e815/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rohit/.gradle/caches/transforms-3/580c8cba696c03bab3922ef6e6023843/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/rohit/.gradle/caches/transforms-3/580c8cba696c03bab3922ef6e6023843/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ad9475fa2fb52485618e2cf36652c067/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/rohit/.gradle/caches/transforms-3/ad9475fa2fb52485618e2cf36652c067/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rohit/.gradle/caches/transforms-3/03a9870c7cb55336aa671f531b5bdd7f/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/rohit/.gradle/caches/transforms-3/03a9870c7cb55336aa671f531b5bdd7f/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rohit/.gradle/caches/transforms-3/bffe487eb5748f9fafbdea93116f76cd/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/rohit/.gradle/caches/transforms-3/bffe487eb5748f9fafbdea93116f76cd/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rohit/.gradle/caches/transforms-3/2ad741cfcf52d97a50fb2c98f3ea6e2e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/rohit/.gradle/caches/transforms-3/2ad741cfcf52d97a50fb2c98f3ea6e2e/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rohit/.gradle/caches/transforms-3/e17334d6ee2a96bc6e34504380789756/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/rohit/.gradle/caches/transforms-3/e17334d6ee2a96bc6e34504380789756/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rohit/.gradle/caches/transforms-3/77ad3c9b9262e6641eec7686d9236799/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/rohit/.gradle/caches/transforms-3/77ad3c9b9262e6641eec7686d9236799/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rohit/.gradle/caches/transforms-3/f3f6f40178a0a499e88eae1fe5c74bd1/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/rohit/.gradle/caches/transforms-3/f3f6f40178a0a499e88eae1fe5c74bd1/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/3d5f5d66ab57faf98456681559d7ae76/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/rohit/.gradle/caches/transforms-3/3d5f5d66ab57faf98456681559d7ae76/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rohit/Downloads/Android-Attendance-App-2023/app/src/main/AndroidManifest.xml

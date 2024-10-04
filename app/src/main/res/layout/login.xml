@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="logInAdminVM" type="com.yashsapplication.app.modules.loginadmin.data.viewmodel.LogInAdminVM"/>
+    </data>
+    <LinearLayout android:id="@+id/linearLOGINAdmin"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:paddingEnd="@dimen/_31pxh"
+        android:paddingStart="@dimen/_31pxh" style="@style/groupStylewhite_A700">
+        <FrameLayout android:id="@+id/frameLogo"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="@dimen/_172pxv" android:layout_width="@dimen/_164pxh">
+            <TextView android:gravity="top|center"
+                android:id="@+id/txtWelcometoback"
+                android:layout_gravity="bottom|center"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:lineSpacingExtra="@dimen/_14pxh"
+                android:text="@{logInAdminVM.logInAdminModel.txtWelcometoback}"
+                style="@style/txtPoppinsmedium16" tools:text="@string/msg_welcome_back_login"/>
+            <FrameLayout android:id="@+id/frameStackdesignwith"
+                android:layout_gravity="top|center"
+                android:layout_height="@dimen/_157pxv" android:layout_width="@dimen/_164pxh">
+                <ImageView android:id="@+id/imageDesignwithdesig"
+                    android:layout_gravity="center"
+                    android:layout_height="@dimen/_157pxh"
+                    android:layout_width="@dimen/_164pxh"
+                    android:scaleType="fitXY"
+                    imageRes="@{@drawable/img_designwithdesigners_4}"
+                    tools:ignore="ContentDescription" tools:src="@drawable/img_designwithdesigners_4"/>
+                <FrameLayout android:id="@+id/frameStacklogobgOne"
+                    android:layout_gravity="top|center"
+                    android:layout_height="@dimen/_122pxv" android:layout_width="@dimen/_125pxh">
+                    <LinearLayout android:id="@+id/linearColumnlogobg"
+                        android:layout_gravity="top|start"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="@dimen/_26pxh"
+                        android:layout_marginStart="@dimen/_18pxh"
+                        android:layout_marginTop="@dimen/_19pxv"
+                        android:layout_width="match_parent"
+                        android:orientation="vertical" style="@style/groupStylecornerRadius_1">
+                        <View
+                            android:background="@drawable/rectangle_bg_white_a700_radius_35"
+                            android:id="@+id/viewLogobgOne"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_height="@dimen/_70pxh" android:layout_width="@dimen/_70pxh"/>
+                    </LinearLayout>
+                    <ImageView android:id="@+id/imageKclogoOne"
+                        android:layout_gravity="center"
+                        android:layout_height="@dimen/_122pxh"
+                        android:layout_width="@dimen/_125pxh"
+                        android:scaleType="centerCrop"
+                        circular="@{true}"
+                        imageRes="@{@drawable/img_kc_logo_122x125}"
+                        tools:ignore="ContentDescription" tools:src="@drawable/img_kc_logo_122x125"/>
+                </FrameLayout>
+            </FrameLayout>
+        </FrameLayout>
+        <Spinner
+            android:background="@drawable/layer_list_bg_white_a700_border_purple_800_radius_10"
+            android:gravity="center_horizontal"
+            android:id="@+id/spinnerAdmin"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_15pxv"
+            android:layout_width="match_parent" tools:listitem="@layout/spinner_item"/>
+        <LinearLayout android:gravity="start"
+            android:id="@+id/linearEmailaddress"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20pxv"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="@dimen/_1pxh" android:paddingStart="@dimen/_1pxh">
+            <TextView android:ellipsize="end"
+                android:id="@+id/txtUsername"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:lineSpacingExtra="@dimen/_8pxh"
+                android:singleLine="true"
+                android:text="@{logInAdminVM.logInAdminModel.txtUsername}"
+                style="@style/txtPoppinsmedium16" tools:text="@string/lbl_user_name"/>
+            <EditText
+                android:background="@drawable/rectangle_bg_white_a700_border_purple_800_radius_10"
+                android:drawablePadding="@dimen/_26pxh"
+                android:drawableStart="@drawable/drawable_img_contrast_purple_800"
+                android:ellipsize="end"
+                android:hint="@string/lbl_user_name"
+                android:id="@+id/etUserName" android:inputType="text"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_18pxv"
+                android:layout_width="match_parent"
+                android:lineSpacingExtra="@dimen/_7pxh"
+                android:paddingBottom="@dimen/_19pxv"
+                android:paddingEnd="@dimen/_30pxh"
+                android:paddingStart="@dimen/_21pxh"
+                android:paddingTop="@dimen/_19pxv"
+                android:singleLine="true"
+                android:text="@={logInAdminVM.logInAdminModel.etUserNameValue}"
+                android:textColorHint="@color/black_900"
+                style="@style/etSolidRoundedOutline" tools:ignore="Autofill"/>
+        </LinearLayout>
+        <LinearLayout android:gravity="start"
+            android:id="@+id/linearPasswordholder"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_36pxv"
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:paddingEnd="@dimen/_1pxh" android:paddingStart="@dimen/_1pxh">
+            <TextView android:ellipsize="end"
+                android:id="@+id/txtPassword"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:lineSpacingExtra="@dimen/_8pxh"
+                android:singleLine="true"
+                android:text="@{logInAdminVM.logInAdminModel.txtPassword}"
+                style="@style/txtPoppinsmedium16" tools:text="@string/lbl_password"/>
+            <EditText
+                android:background="@drawable/rectangle_bg_white_a700_border_purple_800_radius_10"
+                android:drawableEnd="@drawable/img_antdesigneyeinvisibleoutlined"
+                android:drawablePadding="@dimen/_30pxh"
+                android:drawableStart="@drawable/img_rilockpasswordline"
+                android:ellipsize="end"
+                android:hint="@string/lbl_password"
+                android:id="@+id/etPassword" android:inputType="text"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_18pxv"
+                android:layout_width="match_parent"
+                android:lineSpacingExtra="@dimen/_7pxh"
+                android:paddingBottom="@dimen/_19pxv"
+                android:paddingEnd="@dimen/_30pxh"
+                android:paddingStart="@dimen/_20pxh"
+                android:paddingTop="@dimen/_19pxv"
+                android:singleLine="true"
+                android:text="@={logInAdminVM.logInAdminModel.etPasswordValue}"
+                android:textColorHint="@color/black_900"
+                style="@style/etSolidRoundedOutline" tools:ignore="Autofill"/>
+        </LinearLayout>
+        <androidx.appcompat.widget.AppCompatButton
+            android:ellipsize="end" android:gravity="center"
+            android:id="@+id/btnLogIn"
+            android:layout_gravity="center_horizontal"
+            android:layout_height="@dimen/_60pxv"
+            android:layout_marginBottom="@dimen/_5pxv"
+            android:layout_marginTop="@dimen/_50pxv"
+            android:layout_width="@dimen/_352pxh"
+            android:lineSpacingExtra="@dimen/_9pxh"
+            android:paddingBottom="@dimen/_16pxv"
+            android:paddingEnd="@dimen/_30pxh"
+            android:paddingStart="@dimen/_30pxh"
+            android:paddingTop="@dimen/_16pxv" android:singleLine="true"
+            android:text="@string/lbl_log_in"
+            android:textAllCaps="false" style="@style/btnSolidRounded_1" tools:text="@string/lbl_log_in"/>
+    </LinearLayout>
+</layout>
